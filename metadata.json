@@ -1,0 +1,6 @@
+{
+  "name": "SixDigit — FastAPI URL Shortener",
+  "description": "A clean, clutter-free frontend client and Vercel deployment suite for the FastAPI 6-digit URL shortener service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
